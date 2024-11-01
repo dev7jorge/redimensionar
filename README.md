@@ -39,7 +39,7 @@
 ## 🎲 Rodando o Projeto
 
 ##### Clone este repositório:
-* git clone https://github.com/devjorgesousa/redimensionar.git
+* git clone https://github.com/dev7jorge/redimensionar.git
 
 ##### Acesse a pasta do projeto no terminal/cmd ou Visual Studio Code, após descompactar o arquivo redimensionar-main.zip:
 * cd redimensionar-main
